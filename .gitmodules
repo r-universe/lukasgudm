@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "qmap"]
-	path = qmap
-	url = https://github.com/cran/qmap
 [submodule "SCI"]
 	path = SCI
 	url = https://github.com/cran/SCI
+[submodule "qmap"]
+	path = qmap
+	url = https://github.com/cran/qmap
